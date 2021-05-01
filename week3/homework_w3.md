@@ -1,8 +1,11 @@
-# Homework for Week 3 
+# Homework for Week 3
 
 ## Task - Make a funky music player
 
-Design your own music player, as a minimum requirement: it should be able to play more than two songs. You can make it start or stop. 
+Design your own music player, as a minimum requirement:
+
+* The music player should be able to play more than two songs. 
+* You can make it start / stop.
 
 ### Instruction
 
