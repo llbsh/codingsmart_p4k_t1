@@ -10,6 +10,8 @@
 * Once you stop your voice, micro:bit will show on Display how many seconds you have hold. 
 * A new game will start once button A is pressed.
 
+Here is a [video](https://www.youtube.com/watch?v=cw_rDuByN_8) showing a similar work, however, we don't have to make the LED bits grow as time goes. 
+
 ### Instruction
 
 This is a little project that you can include  micro:bit functions that we have learned in the past few weeks - LED, Buttons, Microphone. 
@@ -20,6 +22,7 @@ You may need the function
 `running_time()` for calculating time difference.
 
 For example: 
+
 ```
 # when voice is detected, you record the start time: 
 
