@@ -1,4 +1,4 @@
-# Homework for Week X
+# Homework for Week 4
 
 ## Task – Hold Your Note
 
@@ -35,3 +35,9 @@ https://microbit-micropython.readthedocs.io/en/v1.0.1/microbit.html?highlight=ru
 
 * Send me your solution via email: 
 codingsmart101@gmail.com
+
+and I will reply to you my solution, so you can see if any improvement you can make.
+
+# Week 4 Lab
+
+[Google Colab Link](https://colab.research.google.com/drive/1VmbWf3mWLXexySysGEsagVh_0YPkpCLL?usp=sharing)
