@@ -4,10 +4,10 @@
 
 ### Software Requirement
 
-Build a temperature monitor device which can track max temperature, min temperature and average temperature. 
-When button_a is pressed, LED display scrolls these min/max/average values. 
-When you press button b, you start a new monitoring session, so that the previous min/max/average values are cleared. 
-Add an alarm feature, when the monitor detects a high temperature ( > 70’C ). So that micro:bit can help people avoid getting burned. 
+* Build a temperature monitor device which can track max temperature, min temperature and average temperature.
+* When button_a is pressed, LED display scrolls these min/max/average values. 
+* When you press button b, you start a new monitoring session, so that the previous min/max/average values are cleared.
+* Add an alarm feature, when the monitor detects a high temperature ( > 70’C ). So that micro:bit can help people avoid getting burned.
 
 ### Instruction
 
